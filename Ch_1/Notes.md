@@ -20,5 +20,19 @@ Source File >> Class >> Methods >> Statements
 1. Breed, Color
 2. bark()
 
+# Dot operator
+Dog.bark()
+Use the thing before the dot to get to the point AFTER the dot
+
+# Object creation and assignment
+
+Dog tommy = new Dog()
+tommy is a remote control that only turns on the TV dog. (tommy)
+create space for a new dog object on the heap (new Dog)
+connect the remote control to the tv (=)
+
+A reference variable value is the bits representing a way to get to an object on the heap.
+
+
 
 
